@@ -2,6 +2,6 @@
    <dependency>
 	<groupId></groupId>
 	<artifactId></artifactId>
-	<scope>runtime</scope>
+	
    </dependency>
 </dependencies>
